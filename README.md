@@ -20,7 +20,7 @@ I enjoy transforming raw data into meaningful insights using analytical tools.
      * Telecom Network Experience, Service Quality & Churn Risk Intelligence
 - Mood Quotes Generator (Python – Tkinter)
 - E-commerce Product Catalogue (Python + MySQL)
-- 
+
 ### 🛠 Tools & Technologies
 - Power BI
 - MySQL
