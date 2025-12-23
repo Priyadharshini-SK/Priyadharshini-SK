@@ -28,11 +28,6 @@ I enjoy transforming raw data into meaningful insights using analytical tools.
 - GitHub
 - MS Excel
 
-### 🌱 Currently Learning
-- Advanced SQL
-- Data Analytics Concepts
-- Power BI Real-time Projects
-- 
 ### 🎯 Career Goal
 To secure an entry-level Data Analyst role where I can apply analytical skills,
 work with real-world data, and continuously improve my data-driven thinking.
