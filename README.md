@@ -4,22 +4,38 @@ Aspiring Data Analyst with a strong interest in data visualization and analytics
 I enjoy transforming raw data into meaningful insights using analytical tools.
 
 ### 💼 Skills
-- Power BI
+- Power BI (Dashboarding, DAX – Beginner)
 - SQL
-- Python + Pandas
+- Python (Pandas)
 - MS Excel
 - Statistics
-- Basic Html
-- Bsaic CSS
-- Basic Js
+- HTML (Basic)
+- CSS (Basic)
+- JavaScript (Basic)
 
 ### 📊 Projects
 - Power BI Dashboards
-      *Digital Payment Fraud Detection & Risk Intelligence
-      *OTT Platform Viewer Behaviour & Content Drop-off Intelligence
-      *Telecom Network Experience Service Quality & Churn Risk Intelligence 
-- Mood Quotes Generator using Python Tkinter
-- E-commerce Product Catalogue using Python with Mysql
+     * Digital Payment Fraud Detection & Risk Intelligence
+     * OTT Platform Viewer Behaviour & Content Drop-off Intelligence
+     * Telecom Network Experience, Service Quality & Churn Risk Intelligence
+- Mood Quotes Generator (Python – Tkinter)
+- E-commerce Product Catalogue (Python + MySQL)
+- 
+### 🛠 Tools & Technologies
+- Power BI
+- MySQL
+- Python
+- GitHub
+- MS Excel
+
+### 🌱 Currently Learning
+- Advanced SQL
+- Data Analytics Concepts
+- Power BI Real-time Projects
+- 
+### 🎯 Career Goal
+To secure an entry-level Data Analyst role where I can apply analytical skills,
+work with real-world data, and continuously improve my data-driven thinking.
 
 ### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/priyadharshini-senthilkumar-586ba932a
