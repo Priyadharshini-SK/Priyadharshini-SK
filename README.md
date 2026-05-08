@@ -1,38 +1,57 @@
-## Hi, I'm Priyadharshini Senthilkumar 👋
+# Hi, I'm Priyadharshini Senthilkumar 👋
 
-Aspiring Data Analyst with a strong interest in data visualization and analytics.
-I enjoy transforming raw data into meaningful insights using analytical tools.
+🎓 Pre-final Year B.Tech IT Student @ Jeppiaar Engineering College, Chennai
+📊 Aspiring Data Analyst | Turning raw data into meaningful insights
+📍 Chennai, Tamil Nadu, India
+📬 priyadharshinisk06@gmail.com
 
-### 💼 Skills
-- Power BI (Dashboarding, DAX – Beginner)
-- SQL
+---
+
+## 🚀 About Me
+
+I am passionate about data analytics and data visualization.
+I enjoy working with real-world datasets to uncover patterns,
+build dashboards, and support data-driven decision-making.
+Currently building expertise in Python, SQL, Power BI, and Tableau.
+
+---
+
+## 🛠️ Skills
+
 - Python (Pandas)
-- MS Excel
+- SQL / MySQL
+- Power BI (Dashboarding, DAX)
+- Microsoft Excel
 - Statistics
-- HTML (Basic)
-- CSS (Basic)
-- JavaScript (Basic)
-
-### 📊 Projects
-- Power BI Dashboards
-     * Digital Payment Fraud Detection & Risk Intelligence
-     * OTT Platform Viewer Behaviour & Content Drop-off Intelligence
-     * Telecom Network Experience, Service Quality & Churn Risk Intelligence
-- Mood Quotes Generator (Python – Tkinter)
-- Smart E-Commerce Management System (Python - Tkinter)
-
-### 🛠 Tools & Technologies
-- Power BI
-- MySQL
-- Python
+- HTML | CSS
+- Tkinter
 - GitHub
-- MS Excel
 
-### 🎯 Career Goal
-To secure an entry-level Data Analyst role where I can apply analytical skills,
-work with real-world data, and continuously improve my data-driven thinking.
+---
 
-### 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/priyadharshini-senthilkumar-586ba932a
-- Email: priyadharshinisk06@gmail.com
-- Github : https://github.com/Priyadharshini-SK
+## 📊 Projects
+
+Power BI Dashboards:
+- Digital Payment Fraud Detection & Risk Intelligence
+- OTT Viewer Behavior & Content Drop-off Analysis
+- Telecom Network Churn & Service Quality Intelligence
+
+Python Projects:
+- Smart E-Commerce Product & Sales Management System
+- Mood Quote Generator (Python + Tkinter)
+
+---
+
+## 🎯 Career Goal
+
+Seeking an entry-level Data Analyst role where I can apply
+my analytical skills, work with real-world data, and contribute
+to impactful business decisions.
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/priyadharshini-senthilkumar-586ba932a
+GitHub: https://github.com/Priyadharshini-SK
+Email: priyadharshinisk06@gmail.com
