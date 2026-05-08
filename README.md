@@ -19,7 +19,7 @@ I enjoy transforming raw data into meaningful insights using analytical tools.
      * OTT Platform Viewer Behaviour & Content Drop-off Intelligence
      * Telecom Network Experience, Service Quality & Churn Risk Intelligence
 - Mood Quotes Generator (Python – Tkinter)
-- E-commerce Product Catalogue (Python + MySQL)
+- Smart E-Commerce Management System (Python - Tkinter)
 
 ### 🛠 Tools & Technologies
 - Power BI
